@@ -22,5 +22,3 @@ jobs:
             **/.git*
             **/.git*/**
             **/node_modules/**
-          dry-run: true
-          log-level: verbose
